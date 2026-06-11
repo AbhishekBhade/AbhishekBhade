@@ -1,6 +1,6 @@
 ## HI there , 
-Iam Abhishek ,a full stack developer 
-i design and build whatever crazy idea get up in my head
+Iam Abhishek ,a full stack developer   
+i design and build whatever crazy idea get up in my head  
 my main stack is PERN , currenly i am in love of learning and creating with AI 
 
 ## 🌐 Socials:
