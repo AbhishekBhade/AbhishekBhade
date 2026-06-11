@@ -4,8 +4,8 @@ i design and build whatever crazy idea get up in my head
 my main stack is PERN , currenly i am in love of learning and creating with AI 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/github.com/AbhishekBhade) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AbhishekBh16386) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/github.com/AbhishekBhade)   
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AbhishekBh16386)   
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekbhade04@gmail.com) 
 
 # 💻 Tech Stack:
